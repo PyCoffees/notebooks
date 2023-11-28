@@ -11,5 +11,6 @@ Ready to learn? Get your coffee and enjoy these sessions.
 
 This tutorial explains the very basics of Jupyter notebooks: installation, basic editing and shortcuts, and basic running code and plotting.
 
-Speaker: Jorge Lillo-Box
-Date: 28/november/2023
+**Speaker**: Jorge Lillo-Box
+
+**Date**: 28/november/2023
