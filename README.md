@@ -7,7 +7,7 @@ Ready to learn? Get your coffee and enjoy these sessions.
 
 ***
 ### Jupyter notebook for PyCoffees@CAB
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.ipynb)[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.html)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.ipynb)  [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.html)
 
 This tutorial explains the very basics of Jupyter notebooks: installation, basic editing and shortcuts, and basic running code and plotting.
 
