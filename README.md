@@ -20,7 +20,11 @@ This tutorial explains the very basics of Jupyter notebooks: installation, basic
 ### Interactive Plotting With Python: From Zero to Hero 🚀
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) &nbsp; [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9h-FtFG8ryJ0BsHxkqQRkH3zWc_y_q5?usp=sharing)
 
-This tutorial explains the very basics of Jupyter notebooks: installation, basic editing and shortcuts, and basic running code and plotting.
+This demo shows how to perform interactive plotting in `python` with the package `plotly`, providing:
+
+- A template for an extensive customisation of the plots.
+
+- A function to create an html dashboard with `plotly` figures for data sharing.
 
 **Speaker**: Pedro Mas Buitrago
 
