@@ -7,7 +7,7 @@ Ready to learn? Get your coffee and enjoy these sessions 👋
 
 ***
 ### Jupyter notebook for PyCoffees@CAB
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.ipynb) [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_11_29__IntroJupyter_JorgeLilloBox.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](notebooks/html/2023_11_29__IntroJupyter_JorgeLilloBox.html)
 
 This tutorial explains the very basics of Jupyter notebooks: installation, basic editing and shortcuts, and basic running code and plotting.
@@ -18,7 +18,8 @@ This tutorial explains the very basics of Jupyter notebooks: installation, basic
 
 ***
 ### Interactive Plotting With Python: From Zero to Hero 🚀
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) &nbsp; [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9h-FtFG8ryJ0BsHxkqQRkH3zWc_y_q5?usp=sharing)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](notebooks/html/2023_12_13_interactive_viz_PedroMas.html) &nbsp; [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9h-FtFG8ryJ0BsHxkqQRkH3zWc_y_q5?usp=sharing)
 
 This demo shows how to perform interactive plotting in `python` with the package `plotly`, providing:
 
