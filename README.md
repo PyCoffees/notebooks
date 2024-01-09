@@ -30,3 +30,16 @@ This demo shows how to perform interactive plotting in `python` with the package
 **Speaker**: Pedro Mas Buitrago
 
 **Date**: 13/december/2023
+
+***
+### "Sweet" Introduction to iSpec
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2024_01_10_intro_iSpec_DiegoCuenda.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](notebooks/html/2024_01_10_intro_iSpec_DiegoCuenda.html)
+
+
+
+**Speaker**: Diego Cuenda Muñoz
+
+**Date**: 10/january/2024
+
+
