@@ -1,5 +1,5 @@
 # Notebooks
-Repository of Jupyter notebooks from PyCoffees at CAB. PyCoffees@CAB are informal sessions taking place at the Villafranca library (at ESA premisses in Madrid) among members of the Astrophysics Department of the Center for Astrobiology. They are organised by Staff and PhD students and aim at sharing knowledge about `python` tips and modules that are generally useful in Astrophysics data analysis.
+Repository of Jupyter notebooks from PyCoffees at CAB. PyCoffees@CAB are informal sessions taking place at the Villafranca library (at ESA premisses in Madrid) among members of the Astrophysics Department of the Center for Astrobiology. They are organised by Staff and PhD students and aim at sharing knowledge about `Python` tips and modules that are generally useful in Astrophysics data analysis.
 
 All notebooks are in English and extensively commented. They will be stored as both `.ipynb` and `.html` files. 
 
