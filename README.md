@@ -21,11 +21,11 @@ This tutorial explains the very basics of Jupyter notebooks: installation, basic
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2023_12_13_interactive_viz_PedroMas.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](notebooks/html/2023_12_13_interactive_viz_PedroMas.html) &nbsp; [![Google Colab Badge](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1t9h-FtFG8ryJ0BsHxkqQRkH3zWc_y_q5?usp=sharing)
 
-This demo shows how to perform interactive plotting in `python` with the package `plotly`, providing:
+This demo shows how to perform interactive plotting in `Python` with the package `Plotly`, providing:
 
 - A template for an extensive customisation of the plots.
 
-- A function to create an html dashboard with `plotly` figures for data sharing.
+- A function to create an html dashboard with `Plotly` figures for data sharing.
 
 **Speaker**: Pedro Mas Buitrago
 
@@ -36,7 +36,7 @@ This demo shows how to perform interactive plotting in `python` with the package
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2024_01_10_intro_iSpec_DiegoCuenda.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](notebooks/html/2024_01_10_intro_iSpec_DiegoCuenda.html)
 
-
+This tutorial presents `iSpec`, an open source framework devoted to the analysis of stellar spectra. A general introduction to the tool is provided together with `Python` functions which perform some of the most frequent tasks.
 
 **Speaker**: Diego Cuenda Muñoz
 
