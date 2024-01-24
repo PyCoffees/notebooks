@@ -42,4 +42,15 @@ This tutorial presents `iSpec`, an open source framework devoted to the analysis
 
 **Date**: 10/january/2024
 
+***
+### Introduction to rebound (N-body)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](notebooks/2024_01_24_REBOUND_JoseLuisGrageraMas.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](notebooks/html/2024_01_24_REBOUND_JoseLuisGrageraMas.html)
+
+This tutorial breaks down the basics of diving into `Rebound`. We'll be using particles and integrators as an starting point to simulate gravity interactions.
+
+**Speaker**: Jose Luis Gragera Mas
+
+**Date**: 24/january/2024
+
 
