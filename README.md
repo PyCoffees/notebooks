@@ -60,6 +60,8 @@ This tutorial breaks down the basics of diving into `Rebound`. We'll be using pa
 
 This tutorial is a basic introduction to using `Astropy` to manipulate tables. A first part is more specific for FITS tables while the remainder is generically applicable to any supported table format (e.g., ascii, csv, html, json, votable, latex, qdp, rst, tab, hdf5).
 
+Files for the turorial are available [here](https://github.com/PyCoffees/notebooks/tree/main/notebooks/files/2024_02_21_astropytables_MargheritaGiustini)
+
 **Speaker**: Margherita Giustini
 
 **Date**: 21/february/2024
