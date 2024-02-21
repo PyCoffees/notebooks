@@ -53,4 +53,14 @@ This tutorial breaks down the basics of diving into `Rebound`. We'll be using pa
 
 **Date**: 24/january/2024
 
+***
+### Introduction to rebound (N-body)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_02_21_astropytables_MargheritaGiustini.ipynb) &nbsp;
+
+This tutorial is a basic introduction to using `Astropy` to manipulate tables. A first part is more specific for FITS tables while the remainder is generically applicable to any supported table format (e.g., ascii, csv, html, json, votable, latex, qdp, rst, tab, hdf5).
+
+**Speaker**: Margherita Giustini
+
+**Date**: 21/february/2024
+
 
