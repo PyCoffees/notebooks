@@ -55,7 +55,8 @@ This tutorial breaks down the basics of diving into `Rebound`. We'll be using pa
 
 ***
 ### How to use Astropy to play with (FITS) tables: basic examples
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_02_21_astropytables_MargheritaGiustini.ipynb) &nbsp;
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_02_21_astropytables_MargheritaGiustini.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](notebooks/html/2024_02_21_astropytables_MargheritaGiustini.html)
 
 This tutorial is a basic introduction to using `Astropy` to manipulate tables. A first part is more specific for FITS tables while the remainder is generically applicable to any supported table format (e.g., ascii, csv, html, json, votable, latex, qdp, rst, tab, hdf5).
 
