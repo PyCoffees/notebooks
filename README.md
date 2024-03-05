@@ -66,4 +66,17 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 
 **Date**: 21/february/2024
 
+***
+### Start doing your own Python Modules 💫
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_03_06_creating_modules_OlgaBalsalobre.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_03_06_creating_modules_OlgaBalsalobre.html)
+
+This PyCoffee focuses on understanding the utility of the `__init__.py` file and the `if __name__ == '__main__'` statement that we have always overlooked as python users. The general keys here provided have the goal to encourage you to create your own Python packages.
+
+The module used for the tutorial is available [here](https://github.com/PyCoffees/notebooks/tree/main/notebooks/files/2024_03_06_creating_modules_OlgaBalsalobre).
+
+**Speaker**: Olga Balsalobre
+
+**Date**: 05/march/2024
+
 
