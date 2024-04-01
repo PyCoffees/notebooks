@@ -79,4 +79,14 @@ The module used for the tutorial is available [here](https://github.com/PyCoffee
 
 **Date**: 05/march/2024
 
+***
+### How to properly arrange your plots 💫
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_03_06_creating_modules_OlgaBalsalobre.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_03_06_creating_modules_OlgaBalsalobre.html)
+
+In this PyCoffee I will show how to properly arrange your plots in python so that they beautifully fit in your papers. We will use the `rcParams` and `Gridspec` modules to customize our plots. 
+
+**Speaker**: Jorge Lillo-Box
+
+**Date**: 03/april/2024
 
