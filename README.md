@@ -91,7 +91,7 @@ In this PyCoffee I will show how to properly arrange your plots in python so tha
 **Date**: 03/april/2024
 
 ***
-### How to export arrays to tables, and then to latex format
+### How to export arrays to tables, and then to LaTeX format
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_17_exporTeXtables_JorgeSanz.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_04_17_exporTeXtables_JorgeSanz.html)
 
