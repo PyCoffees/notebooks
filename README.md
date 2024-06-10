@@ -71,7 +71,7 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_03_06_creating_modules_OlgaBalsalobre.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_03_06_creating_modules_OlgaBalsalobre.html)
 
-This PyCoffee focuses on understanding the utility of the `__init__.py` file and the `if __name__ == '__main__'` statement that we have always overlooked as python users. The general keys here provided have the goal to encourage you to create your own Python packages.
+This PyCoffee focuses on understanding the utility of the `__init__.py` file and the `if __name__ == '__main__'` statement that we have always overlooked as `Python` users. The general keys here provided have the goal to encourage you to create your own `Python` packages.
 
 The module used for the tutorial is available [here](https://github.com/PyCoffees/notebooks/tree/main/notebooks/files/2024_03_06_creating_modules_OlgaBalsalobre).
 
@@ -84,7 +84,7 @@ The module used for the tutorial is available [here](https://github.com/PyCoffee
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_03_Gridspec_JorgeLilloBox.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_04_03_Gridspec_JorgeLilloBox.html)
 
-In this PyCoffee I will show how to properly arrange your plots in python so that they beautifully fit in your papers. We will use the `rcParams` and `Gridspec` modules to customize our plots. 
+In this PyCoffee I will show how to properly arrange your plots in `Python` so that they beautifully fit in your papers. We will use the `rcParams` and `Gridspec` modules to customize our plots. 
 
 **Speaker**: Jorge Lillo-Box
 
@@ -106,7 +106,7 @@ This PyCoffee shows how to create LaTeX tables from `numpy` arrays.
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_04_30_system_JaimeALonso.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_04_30_system_JaimeALonso.html)
 
-This notebook esplains the basic commands of the Python OS module and shows an example of how to interact with a shell installed program and produce a grid of models.
+This notebook esplains the basic commands of the `Python` OS module and shows an example of how to interact with a shell installed program and produce a grid of models.
 
 **Speaker**: Jaime Alonso
 
@@ -117,7 +117,7 @@ This notebook esplains the basic commands of the Python OS module and shows an e
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_12_neural_networks_PedroMas.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_06_12_neural_networks_PedroMas.html)
 
-This notebook esplains the basic commands of the Python OS module and shows an example of how to interact with a shell installed program and produce a grid of models.
+This demo serves as an example of a simplified workflow on the use of neural networks in `Python`.
 
 **Speaker**: Pedro Mas Buitrago
 
