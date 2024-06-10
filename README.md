@@ -117,7 +117,7 @@ This notebook esplains the basic commands of the `Python` OS module and shows an
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_12_neural_networks_PedroMas.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_06_12_neural_networks_PedroMas.html)
 
-This demo serves as an example of a simplified workflow on the use of neural networks in `Python`.
+This tutorial serves as an example of a simplified workflow on the use of neural networks in `Python`.
 
 **Speaker**: Pedro Mas Buitrago
 
