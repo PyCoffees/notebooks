@@ -111,3 +111,15 @@ This notebook esplains the basic commands of the Python OS module and shows an e
 **Speaker**: Jaime Alonso
 
 **Date**: 30/april/2024
+
+***
+### Building neural networks in Python 🚀
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_06_12_neural_networks_PedroMas.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_06_12_neural_networks_PedroMas.html)
+
+This notebook esplains the basic commands of the Python OS module and shows an example of how to interact with a shell installed program and produce a grid of models.
+
+**Speaker**: Pedro Mas Buitrago
+
+**Date**: 12/june/2024
+
