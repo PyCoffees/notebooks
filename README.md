@@ -130,6 +130,8 @@ This tutorial serves as an example of a simplified workflow on the use of neural
 
 In this tutorial, divided in 3 parts, we will see how to use the `Python` library [![RichValues](https://img.shields.io/pypi/v/richvalues?label=richvalues)](https://pypi.org/project/richvalues/) . It can be useful for working easily with numeric values that have associated uncertainties, and also even upper/lower limits or finite intervals of values. Here [![lib](https://img.shields.io/badge/richvalues-white?style=flat&logo=github&labelColor=black)](https://github.com/andresmegias/richvalues) &nbsp; you can explore the library in more detail.
 
+Files for the tutorial are available [here](https://github.com/PyCoffees/notebooks/tree/main/notebooks/files/2024_06_26_richvalues_AndresMegias).
+
 **Speaker**: Andrés Megías
 
 **Date**: 26/june/2024
