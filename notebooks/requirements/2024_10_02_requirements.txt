@@ -1,0 +1,4 @@
+astropy
+pandas
+tqdm
+matplotlib
