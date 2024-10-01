@@ -141,7 +141,7 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_02_IntroPandas_DavidORyan.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_10_02_IntroPandas_DavidORyan.html)
 
-Many of you will have heard of Pandas before. This is data handlying Python library, which utilises a Tabular format of data structure called a DataFrame. This is a very logical, and easy way to keep track of data, apply functions to that data and append more data to it. In this Notebook, I will demonstrate:
+Many of you will have heard of `Pandas` before. This is a data handlying `Python` library, which utilises a Tabular format of data structure called a DataFrame. This is a very logical, and easy way to keep track of data, apply functions to that data and append more data to it. In this Notebook, I will demonstrate:
 
 1. How to import a CSV file, and do some initial exploration of the data.
 2. How to merge two DataFrames.
