@@ -156,11 +156,11 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 **Date**: 02/October/2024
 
 ***
-### An Introduction to the Pandas Python Library
+### Floating point algebra
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_16_Coma_Flotante_MiguelCerviño.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_10_16_Coma_Flotante_MiguelCerviño.html)
 
-In this notebook I show some of the problems that can occur when using floating numbers and some tips to avoid them. Most of what is shown can be found in Julia Evans' fantastic blog “Examples of floating point problems” (https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/) and for more information we recommend consulting the Python manual page on the subject (https://docs.python.org/3/tutorial/floatingpoint.html).
+In this notebook I show some of the problems that can occur when using floating numbers and some tips to avoid them. Most of what is shown can be found in Julia Evans' fantastic blog [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/) and for more information we recommend consulting the [Python manual page](https://docs.python.org/3/tutorial/floatingpoint.html) on the subject.
 
 **Speaker**: Miguel Cerviño
 
