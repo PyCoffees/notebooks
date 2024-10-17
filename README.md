@@ -162,6 +162,8 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 
 In this notebook I show some of the problems that can occur when using floating numbers and some tips to avoid them. Most of what is shown can be found in Julia Evans' fantastic blog [Examples of floating point problems](https://jvns.ca/blog/2023/01/13/examples-of-floating-point-problems/) and for more information we recommend consulting the [Python manual page](https://docs.python.org/3/tutorial/floatingpoint.html) on the subject.
 
+Files for the tutorial are available [here](https://github.com/PyCoffees/notebooks/tree/main/notebooks/files/2024_10_16_Coma_Flotante_MiguelCerviño).
+
 **Speaker**: Miguel Cerviño
 
 **Date**: 16/October/2024
