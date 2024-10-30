@@ -168,6 +168,18 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 
 **Date**: 16/October/2024
 
+***
+### Astroquery and its secrets
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_10_30_Astroquery_CarlosCifuentes.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_10_30_Astroquery_CarlosCifuentes.html)
+
+Many tasks depend on retrieving information from large public databases that store observations, catalogues, and published studies. While manual downloads are sometimes possible, automated data retrieval is often the most efficient, secure, and reproducible approach. However, the diversity of databases, with different access protocols and formats, presents a challenge. In this Pycoffee we learn how `Astroquery` can help simplifying this process, providing a Pythonic way to interact with numerous astronomical databases in a unified manner.
+
+**Speaker**: Carlos Cifuentes
+
+**Date**: 30/October/2024
+
+
 
 
 
