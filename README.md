@@ -179,6 +179,16 @@ Many tasks depend on retrieving information from large public databases that sto
 
 **Date**: 30/October/2024
 
+***
+### Introduction to lmfit
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_11_13_lmfit_LauraHermosa.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_11_13_lmfit_LauraHermosa.html)
+
+This notebook explores some of the basics of the `lmfit` module in ´python´ with an example based on fitting Gaussian functions to emission lines. This includes the definition of parameters and functions, explaining the fitting process and how to obtain and plot the results, and finally evaluating the uncertainties.
+
+**Speaker**: Laura Hermosa
+
+**Date**: 13/November/2024
 
 
 
