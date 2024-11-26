@@ -195,7 +195,7 @@ This notebook explores some of the basics of the `lmfit` module in ´python´ wi
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2024_11_27_Error_Propagation_MiguelCerviño.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2024_11_27_Error_Propagation_MiguelCerviño.html)
 
-This notebook shows how to properly represent, work and propagate uncertainty in measurements.
+This notebook shows how to properly describe, represent and propagate uncertainty in measurements.
 
 **Speaker**: Miguel Cerviño
 
