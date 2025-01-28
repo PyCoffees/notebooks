@@ -201,6 +201,17 @@ This notebook shows how to properly describe, represent and propagate uncertaint
 
 **Date**: 27/November/2024
 
+***
+### Regular expressions for a more efficient work
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_01_29_regex_OlgaBalsalobre.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_01_29_regex_OlgaBalsalobre.html)
+
+This PyCoffee focuses on the uses of regular expressions (regex), a powerful tool for pattern matching and text processing, using the `re` module.
+
+**Speaker**: Olga Balsalobre
+
+**Date**: 29/January/2025
+
 
 
 
