@@ -1,0 +1,11 @@
+pandas
+numpy
+scipy
+matplotlib
+pymc
+bambi
+arviz
+xarray
+emcee
+tqdm
+corner
