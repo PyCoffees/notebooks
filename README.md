@@ -212,6 +212,16 @@ This PyCoffee focuses on the uses of regular expressions (regex), a powerful too
 
 **Date**: 29/January/2025
 
+***
+### Bayesian inference using `PyMC` and data visualization with `ArViz`
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_12_pymc_LuisGonzalez.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_02_12_pymc_LuisGonzalez.html)
+
+This notebook presents a guide on how to adjust data of different nature using the python package `PyMC`. I will discuss the advantages this package has over Bayesian inference and the differences when doing algebraic or frequentist adjustments.
+
+**Speaker**: Luis González
+
+**Date**: 12/February/2025
 
 
 
