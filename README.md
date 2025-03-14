@@ -219,6 +219,8 @@ This PyCoffee focuses on the uses of regular expressions (regex), a powerful too
 
 This notebook presents a guide on how to adjust data of different nature using the python package `PyMC`. I will discuss the advantages this package has over Bayesian inference and the differences when doing algebraic or frequentist adjustments.
 
+Files for the tutorial are available [here](https://github.com/PyCoffees/notebooks/tree/main/notebooks/files/2025_02_12_pymc_LuisGonzalez).
+
 **Speaker**: Luis González
 
 **Date**: 12/February/2025
