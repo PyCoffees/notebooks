@@ -237,11 +237,11 @@ This PyCoffee explains the use of `self` in `Python` classes. It highlights that
 **Date**: 12/March/2025
 
 ***
-### Parallel Computing
+### Parallel Computing in Python
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_26_parallelcomputing_AdrienMasson.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_03_26_parallelcomputing_AdrienMasson.html)
 
-Parallel computing is a powerful tool to speed up calculations, either of small batches of code or larger scripts. This tutorial provides a brief introduction to Python modules such as "multiprocess" and "threading" and how to use them to set up simple parallel computing within a Jupyter notebook or a `Python` script.
+Parallel computing is a powerful tool to speed up calculations, either of small batches of code or larger scripts. This tutorial provides a brief introduction to `Python` modules such as `multiprocess` and `threading` and how to use them to set up simple parallel computing within a Jupyter notebook or a `Python` script.
 
 **Speaker**: Adrien Masson
 
