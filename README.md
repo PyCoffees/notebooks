@@ -14,7 +14,7 @@ This tutorial explains the very basics of Jupyter notebooks: installation, basic
 
 **Speaker**: Jorge Lillo-Box
 
-**Date**: 28/november/2023
+**Date**: 28/November/2023
 
 ***
 ### Interactive Plotting With Python: From Zero to Hero 🚀
@@ -29,7 +29,7 @@ This demo shows how to perform interactive plotting in `Python` with the package
 
 **Speaker**: Pedro Mas Buitrago
 
-**Date**: 13/december/2023
+**Date**: 13/December/2023
 
 ***
 ### "Sweet" Introduction to iSpec
@@ -40,7 +40,7 @@ This tutorial presents `iSpec`, an open source framework devoted to the analysis
 
 **Speaker**: Diego Cuenda Muñoz
 
-**Date**: 10/january/2024
+**Date**: 10/January/2024
 
 ***
 ### Introduction to rebound (N-body)
@@ -51,7 +51,7 @@ This tutorial breaks down the basics of diving into `Rebound`. We'll be using pa
 
 **Speaker**: Jose Luis Gragera Mas
 
-**Date**: 24/january/2024
+**Date**: 24/January/2024
 
 ***
 ### How to use Astropy to play with (FITS) tables: basic examples
@@ -64,7 +64,7 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 
 **Speaker**: Margherita Giustini
 
-**Date**: 21/february/2024
+**Date**: 21/February/2024
 
 ***
 ### Start doing your own Python Modules 💫
@@ -77,7 +77,7 @@ The module used for the tutorial is available [here](https://github.com/PyCoffee
 
 **Speaker**: Olga Balsalobre
 
-**Date**: 05/march/2024
+**Date**: 05/March/2024
 
 ***
 ### How to properly arrange your plots 💫
@@ -88,7 +88,7 @@ In this PyCoffee I will show how to properly arrange your plots in `Python` so t
 
 **Speaker**: Jorge Lillo-Box
 
-**Date**: 03/april/2024
+**Date**: 03/April/2024
 
 ***
 ### How to export arrays to tables, and then to LaTeX format
@@ -99,7 +99,7 @@ This PyCoffee shows how to create LaTeX tables from `numpy` arrays.
 
 **Speaker**: Jorge Sanz Forcada
 
-**Date**: 17/april/2024
+**Date**: 17/April/2024
 
 ***
 ### How to interact with shell installed programs through python
@@ -110,7 +110,7 @@ This notebook esplains the basic commands of the `Python` OS module and shows an
 
 **Speaker**: Jaime Alonso
 
-**Date**: 30/april/2024
+**Date**: 30/April/2024
 
 ***
 ### Building neural networks in Python 🚀
@@ -121,7 +121,7 @@ This tutorial serves as an example of a simplified workflow on the use of neural
 
 **Speaker**: Pedro Mas Buitrago
 
-**Date**: 12/june/2024
+**Date**: 12/June/2024
 
 ***
 ### RichValues: a Python library for working with uncertainties
@@ -134,7 +134,7 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 
 **Speaker**: Andrés Megías
 
-**Date**: 26/june/2024
+**Date**: 26/June/2024
 
 ***
 ### An Introduction to the Pandas Python Library
@@ -225,6 +225,16 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 
 **Date**: 12/February/2025
 
+***
+### Understanding `self` in Python Classes
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_03_12_self_CarmenHaukes.html)
+
+This PyCoffee explains the use of `self` in `Python` classes. It highlights that `self` allows accessing, storing, and updating instance attributes, making it easier to reuse methods without redefining values. It also emphasizes that `self` represents the class itself, enabling attribute updates and maintaining code consistency. Finally, it covers how `self` facilitates interaction between classes, allowing information reuse without code duplication. The conclusion is that `self` is essential for organizing and structuring code efficiently, as long as clear and consistent naming is maintained.
+
+**Speaker**: Carmen Haukes
+
+**Date**: 12/March/2025
 
 
 
