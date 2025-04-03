@@ -226,6 +226,17 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 **Date**: 12/February/2025
 
 ***
+### How to write and upload documentation for GITHUB/READTHEDOCS
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_26_documentation_JaimeAlonso.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_02_26_documentation_JaimeAlonso.html)
+
+This turotial shows how to write documentation for GITHUB and READTHEDOCS, what files are recommended for a science open software hosted in github, and the basic of the MARKDOWN and SPHINX languajes.
+
+**Speaker**: Jaime Alonso
+
+**Date**: 26/February/2025
+
+***
 ### Understanding `self` in Python Classes
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_03_12_self_CarmenHaukes.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_03_12_self_CarmenHaukes.html)
