@@ -265,7 +265,7 @@ Parallel computing is a powerful tool to speed up calculations, either of small 
 
 Calculating moving averages is a simple, well known denoising technique that works for band-limited signals. Naive implementations rely on `NumPy`'s convolve() function which works well for small window sizes, but grows linearly in time as the kernel length increases. In this tutorial, we explore and benchmark three different ways of doing the same operation and draw conclusions on which one is better in different scenarios.
 
-**Speaker**: Gonzlo José Carracedo
+**Speaker**: Gonzalo José Carracedo
 
 **Date**: 07/May/2025
 
