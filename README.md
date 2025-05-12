@@ -258,5 +258,16 @@ Parallel computing is a powerful tool to speed up calculations, either of small 
 
 **Date**: 26/March/2025
 
+***
+### Calculating Moving Averages
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_07_MovingAverages_GonzaloCarracedo.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_05_07_MovingAverages_GonzaloCarracedo.html)
+
+Calculating moving averages is a simple, well known denoising technique that works for band-limited signals. Naive implementations rely on `NumPy`'s convolve() function which works well for small window sizes, but grows linearly in time as the kernel length increases. In this tutorial, we explore and benchmark three different ways of doing the same operation and draw conclusions on which one is better in different scenarios.
+
+**Speaker**: Gonzlo José Carracedo
+
+**Date**: 07/May/2025
+
 
 
