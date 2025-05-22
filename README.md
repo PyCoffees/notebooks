@@ -230,7 +230,7 @@ Files for the tutorial are available [here](https://github.com/PyCoffees/noteboo
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_02_26_documentation_JaimeAlonso.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_02_26_documentation_JaimeAlonso.html)
 
-This turotial shows how to write documentation for GITHUB and READTHEDOCS, what files are recommended for a science open software hosted in github, and the basic of the MARKDOWN and SPHINX languajes.
+This tutorial shows how to write documentation for GITHUB and READTHEDOCS, what files are recommended for a science open software hosted in github, and the basic of the MARKDOWN and SPHINX languajes.
 
 **Speaker**: Jaime Alonso
 
@@ -266,6 +266,15 @@ Parallel computing is a powerful tool to speed up calculations, either of small 
 Calculating moving averages is a simple, well known denoising technique that works for band-limited signals. Naive implementations rely on `NumPy`'s convolve() function which works well for small window sizes, but grows linearly in time as the kernel length increases. In this tutorial, we explore and benchmark three different ways of doing the same operation and draw conclusions on which one is better in different scenarios.
 
 **Speaker**: Gonzalo José Carracedo
+
+***
+### Calculating Moving Averages
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_21_ColourPalettes_JorgeLilloBox.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_05_21_ColourPalettes_JorgeLilloBox.html)
+
+This tutorial shows how to use `distinctipy` to generate color-blindness friendly palettes, maximizing the color-wise distance for optimal visualization.
+
+**Speaker**: Jorge Lillo-Box
 
 **Date**: 07/May/2025
 
