@@ -267,8 +267,10 @@ Calculating moving averages is a simple, well known denoising technique that wor
 
 **Speaker**: Gonzalo José Carracedo
 
+**Date**: 07/May/2025
+
 ***
-### Calculating Moving Averages
+### Generating Colour Palettes
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_05_21_ColourPalettes_JorgeLilloBox.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
 )](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_05_21_ColourPalettes_JorgeLilloBox.html)
 
@@ -276,7 +278,7 @@ This tutorial shows how to use `distinctipy` to generate color-blindness friendl
 
 **Speaker**: Jorge Lillo-Box
 
-**Date**: 07/May/2025
+**Date**: 21/May/2025
 
 
 
