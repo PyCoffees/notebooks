@@ -283,8 +283,8 @@ This tutorial shows how to use `distinctipy` to generate color-blindness friendl
 
 ***
 ### Using GitHub Copilot as an Assistant for Time Series Analysis
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_06_11_Copilot_RaulGutierrez.ipynb.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
-)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_06_11_Copilot_RaulGutierrez.ipynb.html)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_06_11_Copilot_RaulGutierrez.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_06_11_Copilot_RaulGutierrez.html)
 
 This notebook demonstrates how to leverage `GitHub Copilot` as an AI-powered assistant to streamline your data science workflow. We will generate synthetic time series data representing temperature measurements and perform various analyses on this data. The goal is to showcase how `Copilot` can help automate code generation, documentation, and exploratory data analysis tasks.
 
