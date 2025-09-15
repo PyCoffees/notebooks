@@ -293,4 +293,15 @@ This notebook demonstrates how to leverage `GitHub Copilot` as an AI-powered ass
 **Date**: 11/June/2025
 
 
+***
+### CCF with iSpec - Easily estimation of RVs, BV correction and identify binarity
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_09_17_CCF_iSpec_SergioTurradoPrieto.ipynb)
+
+Tutorial on the use of `iSpec` for extracting cross-correlation functions to estimate radial velocities.
+
+**Speaker**: Sergio Turrado
+
+**Date**: 17/September/2025
+
+
 
