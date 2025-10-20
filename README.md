@@ -292,7 +292,7 @@ This notebook demonstrates how to leverage `GitHub Copilot` as an AI-powered ass
 
 **Date**: 11/June/2025
 
-
+      
 ***
 ### CCF with iSpec - Easily estimation of RVs, BV correction and identify binarity
 [![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_09_17_CCF_iSpec_SergioTurradoPrieto.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
@@ -303,6 +303,19 @@ Tutorial on the use of `iSpec` for extracting cross-correlation functions to est
 **Speaker**: Sergio Turrado
 
 **Date**: 17/September/2025
+
+***
+### Basic Installations for Python Beginners
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_10_01_Installation_CarmenHaukes.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_10_01_Installation_CarmenHaukes.html)
+
+In this session we introduced the different ways to install Python (official installer, Anaconda/Miniconda, Visual Studio), the basics of interpreters, compilers and IDEs, and the difference between working with .py scripts and Jupyter notebooks. We also learned how to create and manage environments with Conda, and some practical tips for running Python from the terminal and in VS Code.
+
+**Speaker**: Carmen Haukes
+
+**Date**: 01/October/2025
+
+
 
 
 
