@@ -318,8 +318,8 @@ In this session we introduced the different ways to install Python (official ins
 
 ***
 ### How to Perform Cross-Matches using Python
-[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_15_01_XmatchesInPython_JuananMolina.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
-)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_15_01_XmatchesInPython_JuananMolina.html)
+[![Jupyter Book Badge](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_10_15_XmatchesInPython_JuananMolina.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_10_15_XmatchesInPython_JuananMolina.html)
 
 Performing cross-matches is an everyday task for astrophysicists and can sometimes be quite a headache. In this PyCoffee, we aim to explain the different ways to perform cross-matching, either by identifier or by coordinates, using Python. In addition, we present ways to verify that the matching has been done correctly and discuss the potential issues that may arise. Finally, we introduce some alternatives to Python.
 
