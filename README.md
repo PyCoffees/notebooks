@@ -328,3 +328,14 @@ Performing cross-matches is an everyday task for astrophysicists and can sometim
 **Date**: 15/October/2025
 
 
+***
+### Getting TESS and Kepler light curves with lightkurve
+[![Jupyter Book](https://jupyterbook.org/badge.svg)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2025_11_12_GettingLightkurves_JorgeLillo.ipynb) &nbsp; [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/html/2025_11_12_GettingLightkurves_JorgeLillo.html)
+
+Use of the lightkurve module to play around (plotting, periodogram, detrending, phase folding, etc.) with Kepler and TESS photometric light curves.
+
+**Speaker**: Jorge Lillo-Box
+
+**Date**: 12/November/2025
+
