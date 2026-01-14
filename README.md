@@ -339,3 +339,14 @@ Use of the lightkurve module to play around (plotting, periodogram, detrending, 
 
 **Date**: 12/November/2025
 
+
+***
+### Getting TESS and Kepler light curves with lightkurve
+
+
+From Stellar Distortion to Planetary Shadows: Spectral Modeling with SPAMMS.
+
+**Speaker**: Daniel Galan
+
+**Date**: 14/January/2026
+
