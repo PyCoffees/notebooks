@@ -339,3 +339,16 @@ Use of the lightkurve module to play around (plotting, periodogram, detrending, 
 
 **Date**: 12/November/2025
 
+
+***
+### From Stellar Distortion to Planetary Shadows: Spectral Modeling with SPAMMS
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_14_01_DanielGalan.ipynb) 
+
+SPAMMS bridges the gap between geometric models (PHOEBE 2) and stellar atmosphere models, enabling a more physically realistic treatment of stellar surfaces with latitudinal/longitudinal variation in physical parameters.
+
+**Speaker**: Daniel Galán
+
+**Date**: 14/January/2026
+
+
+
