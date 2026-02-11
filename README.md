@@ -369,17 +369,31 @@ This notebook presents two beginner usage cases of Selenium, a Python library th
 
 
 ***
-### Life is too short for manual literature searches.
+### Life is too short for manual literature searches
 [![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_11_ads_CarlosCifuentes.ipynb) 
 
-Using the ADS API with Python, we can automate common literature tasks, such as:,
-    - Searching and filtering in a more customisable way,
-    - Retrieving bibliographic entries, formatted for publications or CV,
-    - Building automated weekly digests
+How to use NASA ADS API to search and organise scientific papers. It shows how to run simple searches, and collect information such as authors, titles, and citation counts. Applications on bibliographic management and customized digests are also shown. Tracking of research topics and researchers’ networks is another useful capability.
 
 **Speaker**: Carlos Cifuentes
 
 **Date**: 11/February/2026
+
+
+***
+### Get started with machine learning for astronomy
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_25_mlastronomy_BelenYuIrureta.ipynb) 
+
+In this notebook, you'll learn how to train and apply an ML model to your astronomical images.
+
+We'll use YOLO (You Only Look Once; Redmon et al., 2016). YOLO is a model that looks at an image and draws boxes around objects it recognises. What makes YOLO special is that it's fast: it analyses the whole image at once instead of scanning piece by piece. While it was originally built to spot everyday things in photos, such as cars and people, YOLO can be used for astronomy purposes. In this tutorial, you'll learn how to train YOLO to recognise celestial objects.
+
+We'll run this notebook on Google Colab to take advantage of (free) GPU resources, which will speed up the training and detection process significantly.
+
+**Speaker**: Belen Yu Irureta-Goyena
+
+**Date**: 25/February/2026
+
+
 
 
 
