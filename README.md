@@ -372,7 +372,10 @@ This notebook presents two beginner usage cases of Selenium, a Python library th
 ### Life is too short for manual literature searches.
 [![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_11_ads_CarlosCifuentes.ipynb) 
 
-This notebook presents two beginner usage cases of Selenium, a Python library that allows for automated web-browsing and emulating human interactions with a webpage. With Selenium, one can, for example, automatically browse and store info from online databases or build scripts to fill out online forms and perform other repetitive, dull tasks. This tool works great for simple tasks, where no official API or other more sophisticated tools (like 'requests') are not available.
+Using the ADS API with Python, we can automate common literature tasks, such as:,
+    - Searching and filtering in a more customisable way,
+    - Retrieving bibliographic entries, formatted for publications or CV,
+    - Building automated weekly digests
 
 **Speaker**: Carlos Cifuentes
 
