@@ -395,7 +395,7 @@ We'll run this notebook on Google Colab to take advantage of (free) GPU resource
 
 ***
 ### Neural Networks form Scratch (I & II)
-[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_25_mlastronomy_BelenYuIrureta.ipynb) 
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_03_11_NN_from_scratch_LuisGonzalezRamirez.ipynb) 
 
 ...
 
