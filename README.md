@@ -393,6 +393,35 @@ We'll run this notebook on Google Colab to take advantage of (free) GPU resource
 
 **Date**: 25/February/2026
 
+***
+### Neural Networks form Scratch (I & II)
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_02_25_mlastronomy_BelenYuIrureta.ipynb) 
+
+...
+
+**Speaker**: Luis González Ramírez
+
+**Date**: 11/March/2026 & 25/March/2026
+
+***
+### Double axes in Python
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_04_22_doubleaxes_JorgeSanz.ipynb) 
+
+...
+
+**Speaker**: Jorge Sanz
+
+**Date**: 22/April/2026
+
+***
+### Bayesian inference with MCMC sampling (I & II)
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_04_22_doubleaxes_JorgeSanz.ipynb) 
+
+...
+
+**Speaker**: Jorge Lillo-Box
+
+**Date**: 06/May/2026 & 20/May/2026
 
 
 
