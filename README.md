@@ -397,7 +397,14 @@ We'll run this notebook on Google Colab to take advantage of (free) GPU resource
 ### Neural Networks form Scratch (I & II)
 [![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_03_11_NN_from_scratch_LuisGonzalezRamirez.ipynb) 
 
-...
+In this notebook we builds a tiny neural network from scratch (NumPy only) to understand:
+
+What a neuron computes (forward pass)
+How learning happens (loss + gradients)
+How training updates parameters (gradient descent)
+How we extend from linear models to a small MLP
+We will generate theoretical / synthetic datasets so we control the ground truth and can inspect training behavior step by step.
+
 
 **Speaker**: Luis González Ramírez
 
@@ -407,7 +414,7 @@ We'll run this notebook on Google Colab to take advantage of (free) GPU resource
 ### Double axes in Python
 [![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_04_22_doubleaxes_JorgeSanz.ipynb) 
 
-...
+How to do double axes in python. 
 
 **Speaker**: Jorge Sanz
 
