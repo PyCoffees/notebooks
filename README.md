@@ -422,7 +422,9 @@ How to do double axes in python.
 
 ***
 ### Bayesian inference with MCMC sampling (I & II)
-[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/2026_04_22_doubleaxes_JorgeSanz.ipynb) 
+[![Jupyter Book](https://img.shields.io/badge/Jupyter-Notebook-orange?style=flat-square&logo=jupyter)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/files/2026_05_20_modeling_with_emcee_JorgeLillo/2026_05_20_modeling_with_emcee_JorgeLillo.ipynb) [![HTML5](https://img.shields.io/badge/HTML5-white?style=flat-square&logo=html5&logoColor=white&color=%23E34F26
+)](https://github.com/PyCoffees/notebooks/blob/main/notebooks/files/2026_05_20_modeling_with_emcee_JorgeLillo/modeling_with_emcee.html)
+
 
 ...
 
